@@ -1,8 +1,4 @@
 function decimalToBinary(num) {
-  //Write you code here
-  
-}
-function decimalToBinary(num) {
   let output = "";
   while (num >= 2) {
     let remainder = num % 2;
